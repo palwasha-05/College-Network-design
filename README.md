@@ -6,7 +6,6 @@ Technologies used:
 - Routing
 - Switching
 - VLAN
-Features:
 - LAN desig 
 - Router configuration
 - VLAN implementation
